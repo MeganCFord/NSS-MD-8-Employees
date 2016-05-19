@@ -1,0 +1,26 @@
+{
+  "name": "8-employees",
+  "version": "1.0.0",
+  "description": "nashville software school prototypal inheritance exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeganCFord/NSS-MD-8-Employees.git"
+  },
+  "author": "megan ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeganCFord/NSS-MD-8-Employees/issues"
+  },
+  "homepage": "https://github.com/MeganCFord/NSS-MD-8-Employees#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
