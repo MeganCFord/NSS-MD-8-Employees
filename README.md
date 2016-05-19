@@ -29,7 +29,7 @@ npm init
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-MD-8-Employees)
 
 
 ![screenshot](employee-screenshot.jpg)
