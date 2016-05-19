@@ -32,7 +32,7 @@ open index.html
 [Live Site On Github]()
 
 
-![screenshot]()
+![screenshot](employee-screenshot.jpg)
 
 
 ## License 
