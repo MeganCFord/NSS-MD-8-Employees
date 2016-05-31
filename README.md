@@ -12,7 +12,7 @@ Any/all images are for educational/example purposes only and are all rights rese
 ## Instructions
 
 
-NSS Front-End Milestone 1 (Static Web) Exercise 8: 
+NSS Front-End Milestone 1 (Static Web) Exercise 13: 
 
 
 [Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/exercises/MJ_PROTOTYPAL_EMPLOYEES.md)
@@ -23,8 +23,8 @@ NSS Front-End Milestone 1 (Static Web) Exercise 8:
 
 
 ``` 
-git clone https://github.com/MeganCFord/NSS-MD-8-Employees.git
-cd 8-employees
+git clone https://github.com/MeganCFord/NSS-MD-13-Employees.git
+cd 13-employees
 npm init
 open index.html
 ```
